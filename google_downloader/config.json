@@ -1,0 +1,12 @@
+{
+    "download_directory": "/Users/ach.fadli/Downloads/GoogleDownloader",
+    "max_concurrent_downloads": 3,
+    "default_theme": "Dark",
+    "language": "id",
+    "auto_open_folder": true,
+    "proxy_settings": {
+        "use_proxy": false,
+        "proxy_url": "",
+        "proxy_port": ""
+    }
+}
